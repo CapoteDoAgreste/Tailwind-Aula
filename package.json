@@ -1,11 +1,9 @@
 {
-  "name": "aluranewsletter-49ad22e834517cd7204f1f723a1b8a0a0c1178ce",
+  "name": "aluranewsletter-tailwind-study-project",
   "version": "1.0.0",
   "description": "",
   "main": "tailwind.config.js",
-  "scripts": {
-    "start": "run index.html"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "Tales de Lima Filho",
   "license": "ISC"
 }
